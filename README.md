@@ -8,6 +8,8 @@ train.csv is training data with 784 features (28 X 28) 55000 data entries with a
 run.sh is the command to run train.py
 
 Implemented vanilla Gradient Descent (gd), momentum based gd, nestrov-acclerarted gd, adam.
+
 Activation function used: Sigmoid
+
 Number of hidden layers are dynamic
 
